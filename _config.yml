@@ -1,2 +1,3 @@
-	name: Kishlay Kishore, Litifer
-	markdown: kramdown
+name: Kishlay Kishore, Litifer
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
