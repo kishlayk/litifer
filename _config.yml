@@ -1,3 +1,13 @@
+---
+title: Litifer
+timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 name: Kishlay Kishore, Litifer
 markdown: kramdown
-permalink: /blog/:year/:month/:day/:title
+permalink: "/blog/:year/:month/:day/:title"
